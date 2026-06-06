@@ -4,7 +4,7 @@ import { cn } from '../lib/utils';
 import { AnimatedText } from './AnimatedText';
 import { Magnetic } from './Magnetic';
 
-import { projectsData } from '../../public/images/projects';
+import { projectsData } from '../data/projects';
 
 // Extract slides dynamically from the centralized projects data
 const slides = projectsData

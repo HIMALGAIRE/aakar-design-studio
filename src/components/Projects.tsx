@@ -3,7 +3,7 @@ import { motion, AnimatePresence, useScroll, useTransform } from 'motion/react';
 import { cn } from '../lib/utils';
 import { ArrowDownRight, Filter } from 'lucide-react';
 import { Magnetic } from './Magnetic';
-import { projectsData, Project } from '../../public/images/projects';
+import { projectsData, Project } from '../data/projects';
 
 // Centralised projects list
 const projects = projectsData;
