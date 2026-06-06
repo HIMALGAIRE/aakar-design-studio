@@ -16,7 +16,7 @@ export const projectsData: Project[] = [
     category: "Residential",
     location: "Tilottama, Nepal",
     structure: "Exposed Concrete & Steel",
-    image: "/images/side view.jpeg",
+    image: "public/images/side view.jpeg",
     featured: true,
     size: "large"
   },
@@ -26,7 +26,7 @@ export const projectsData: Project[] = [
     category: "Residential",
     location: "Tilottama-5, Manigram",
     structure: "Glass, Timber & Stone",
-    image: "/images/pro_1.jpeg",
+    image: "public/images/pro_1.jpeg",
     featured: true,
     size: "large"
   },
