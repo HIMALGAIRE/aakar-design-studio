@@ -23,7 +23,7 @@ const staffMembers: StaffMember[] = [
     id: 1,
     name: "Ar. Ishmriti Gaire",
     role: "Architect / Founder",
-    image: "public/images/ishmriti.jpeg",
+    image: "public/image/ishmriti.jpeg",
     coordinates: "DEG.01 / ARCH_FOUND",
     socials: {
       linkedin: "https://www.linkedin.com/in/ishmriti-gaire-b69466329",
@@ -36,7 +36,7 @@ const staffMembers: StaffMember[] = [
     id: 2,
     name: "Er. Sudan Gurung",
     role: "Civil Engineer / Founder",
-    image: "public/images/sudan_gurung_1780767848260.png",
+    image: "public/image/sudan_gurung_1780767848260.png",
     coordinates: "DEG.02 / CIV_ENG",
     socials: {
       linkedin: "https://linkedin.com",
@@ -48,7 +48,7 @@ const staffMembers: StaffMember[] = [
     id: 3,
     name: "Alisha Khanal",
     role: "Intern",
-    image: "public/images/alisha.jpeg",
+    image: "public/image/alisha.jpeg",
     coordinates: "DEG.03 / ARCH_INTERN",
     socials: {
       linkedin: "https://linkedin.com",
