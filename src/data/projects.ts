@@ -26,7 +26,7 @@ export const projectsData: Project[] = [
     category: "Residential",
     location: "Tilottama-5, Manigram",
     structure: "Glass, Timber & Stone",
-    image: "public/image/pro_1.jpeg",
+    image: "public/image/Logo.jpg.jpeg",
     featured: true,
     size: "large"
   },
