@@ -36,7 +36,7 @@ const staffMembers: StaffMember[] = [
     id: 2,
     name: "Er. Sudan Gurung",
     role: "Civil Engineer / Founder",
-    image: "public/image/sudan_gurung_1780767848260.png",
+    image: "./image/sudan_gurung_1780767848260.png",
     coordinates: "DEG.02 / CIV_ENG",
     socials: {
       linkedin: "https://linkedin.com",
@@ -48,7 +48,7 @@ const staffMembers: StaffMember[] = [
     id: 3,
     name: "Alisha Khanal",
     role: "Intern",
-    image: "public/image/alisha.jpeg",
+    image: "./image/alisha.jpeg",
     coordinates: "DEG.03 / ARCH_INTERN",
     socials: {
       linkedin: "https://linkedin.com",
