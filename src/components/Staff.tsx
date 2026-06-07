@@ -23,7 +23,7 @@ const staffMembers: StaffMember[] = [
     id: 1,
     name: "Ar. Ishmriti Gaire",
     role: "Architect / Founder",
-    image: "image/ishmriti.jpeg",
+    image: "./public/image/ishmriti.jpeg",
     coordinates: "DEG.01 / ARCH_FOUND",
     socials: {
       linkedin: "https://www.linkedin.com/in/ishmriti-gaire-b69466329",
